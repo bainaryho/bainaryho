@@ -4,9 +4,6 @@
 </div>
 
 <a href="s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainaryho&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
-</a>
-<a href="s">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bainaryho&theme=transparent&show_icons=true" width="50%" />
 </a>
 
