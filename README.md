@@ -1,9 +1,11 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1E90FF&height=150&section=header&text=2jin_ho&fontColor=8A2BE2&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary_ho&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
