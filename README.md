@@ -3,9 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1E90FF&height=150&section=header&text=2jin_ho&fontColor=8A2BE2&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
+<div align="center">
+  
 <a href="s">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bainaryho&theme=transparent&show_icons=true" width="50%" />
 </a>
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
