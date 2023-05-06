@@ -1,10 +1,10 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/apitype=cylinder&color=FFFFFF&height=150&section=header&text=~Passion~&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFFFF&height=150&section=header&text=~Passion~&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
-
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolluck)](https://solved.ac/coolluck)
-  
+
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 </p>
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/binaryh_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/binaryh_o/"/></a>&nbsp
