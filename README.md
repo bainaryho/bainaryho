@@ -1,10 +1,9 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFFFF&height=150&section=header&text=~Passion~&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
+  
+  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolluck)](https://solved.ac/coolluck)
 </div>
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolluck)](https://solved.ac/coolluck)
-
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
