@@ -1,6 +1,4 @@
 <div align="center">
-
-  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolluck)](https://solved.ac/coolluck)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
